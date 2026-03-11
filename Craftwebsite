@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SITECRAFT STUDIO</title>
+<style>
+body{
+  font-family: Arial, sans-serif;
+  margin:0;
+  background:#0b1d3a;
+  color:white;
+  text-align:center;
+}
+header{
+  padding:80px 20px;
+}
+h1{
+  font-size:42px;
+  margin-bottom:10px;
+}
+p{
+  font-size:18px;
+  opacity:0.9;
+}
+.button{
+  display:inline-block;
+  margin-top:20px;
+  padding:14px 28px;
+  background:#4da3ff;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:bold;
+  transition: 0.3s;
+}
+.button:hover{
+  background:#3390ff;
+}
+.section{
+  padding:60px 20px;
+}
+.cards{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:20px;
+}
+.card{
+  background:white;
+  color:black;
+  padding:25px;
+  border-radius:10px;
+  width:260px;
+}
+footer{
+  padding:40px;
+  opacity:0.7;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>SITECRAFT STUDIO</h1>
+<p>We create modern websites for businesses that attract more clients.</p>
+
+<a class="button" href="https://www.instagram.com/sitecraft.studio2?igsh=d2ZjcmQ1cTJ3ZTFh&utm_source=qr" target="_blank">
+Contact me on Instagram
+</a>
+</header>
+
+<section class="section">
+<h2>Our Services</h2>
+<div class="cards">
+<div class="card">
+<h3>Business Websites</h3>
+<p>Websites for barbershops, cafes, services, and local businesses.</p>
+</div>
+<div class="card">
+<h3>Landing Pages</h3>
+<p>Single page websites designed to convert visitors into clients.</p>
+</div>
+<div class="card">
+<h3>Fast Delivery</h3>
+<p>Your website can be ready in 24-48 hours with modern design.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<h2>Why Choose SITECRAFT</h2>
+<p>
+✔ Modern design<br>
+✔ Mobile friendly<br>
+✔ Fast loading<br>
+✔ Affordable price
+</p>
+</section>
+
+<footer>
+<p>Website creation services | 2026</p>
+</footer>
+
+</body>
+</html>
